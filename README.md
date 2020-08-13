@@ -2,7 +2,7 @@
 
 ## supported store : Amazon
 ### RESTful API
-[POST] /api/v1/scrape/
+[POST]   https://scraperdemo.herokuapp.com/api/v1/scrape
 
 parameter:
 url
